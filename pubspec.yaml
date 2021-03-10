@@ -1,7 +1,7 @@
 name: dart_openvidu_api
 description: This is a package to interact with the OpenVidu api.
 version: 0.0.1
-homepage: https://github.com/DanielUH2019/dart_openvidu_api
+repository: https://github.com/DanielUH2019/dart_openvidu_api
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
