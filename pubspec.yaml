@@ -1,6 +1,7 @@
 name: dart_openvidu_api
-description: A new Flutter package project.
+description: This is a package to interact with the OpenVidu api.
 version: 0.0.1
+homepage: https://github.com/DanielUH2019/dart_openvidu_api
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -8,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  meta: ^1.3.0
   dio: ^3.0.10
 
 dev_dependencies:
