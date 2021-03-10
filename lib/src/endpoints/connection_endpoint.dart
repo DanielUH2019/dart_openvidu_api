@@ -1,7 +1,6 @@
 import 'dart:async';
 
-import 'package:dart_openvidu_api/src/models/connection_model.dart';
-import 'package:dart_openvidu_api/src/models/session_model.dart';
+import 'package:dart_openvidu_api/src/models/models.dart';
 import 'package:dio/dio.dart';
 
 class ConnectionEndpoint {

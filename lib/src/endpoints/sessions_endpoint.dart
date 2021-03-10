@@ -1,5 +1,4 @@
-import 'package:dart_openvidu_api/src/models/post_session_model.dart';
-import 'package:dart_openvidu_api/src/models/session_model.dart';
+import 'package:dart_openvidu_api/src/models/models.dart';
 import 'package:dio/dio.dart';
 
 class SessionEndpoint {

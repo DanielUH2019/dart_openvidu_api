@@ -1,5 +1,4 @@
-import 'package:dart_openvidu_api/src/models/recording_model.dart';
-import 'package:dart_openvidu_api/src/models/recordings_model.dart';
+import 'package:dart_openvidu_api/src/models/models.dart';
 import 'package:dio/dio.dart';
 
 class RecordingEndpoint {
